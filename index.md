@@ -15,3 +15,10 @@ Read more about gamification on the [Edutech wiki](http://edutechwiki.unige.ch/e
 
 [Artefacto](www.artefacto.org.uk) 
 ```
+
+And now here's a nice engraving of Deptford Dockyard
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e4/Deptford_Dockyard_1775.jpg "Deptford Dockyard 1775")
+
+
+Deptford Dockyard 1775 - Engraving of Deptford Dockyard, United Kingdom, depicting small craft at sea.
