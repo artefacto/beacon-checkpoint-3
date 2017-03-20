@@ -13,8 +13,6 @@ Read more about gamification on the [Edutech wiki](http://edutechwiki.unige.ch/e
 
 [Ghosts! A Location-Based Bluetooth LE Mobile Game for Museum Exploration’](https://arxiv.org/pdf/1607.05654.pdf) (pdf) 
 
-[Artefacto](www.artefacto.org.uk) 
-```
 
 And now here's a nice engraving of Deptford Dockyard
 
